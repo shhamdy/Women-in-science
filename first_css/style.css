@@ -1,0 +1,26 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+    text-align: center;
+}
+
+.gray-page {
+    background-color: grey;
+}
+
+.pink-page {
+    background-color: pink;
+    font-family: Arial, sans-serif;
+    padding: 30px;
+    line-height: 1.7;
+    color: #333;
+}
